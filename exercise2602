@@ -1,0 +1,15 @@
+programa {
+  funcao inicio() {
+    
+    inteiro a, b, soma
+
+    escreva("Digite um numero: ")
+    leia(a)
+
+    escreva("Digite outro numero: ")
+    leia(b)
+
+    soma = a + b
+    escreva("A soma dos dois numeros e: ", soma)
+  }
+}
